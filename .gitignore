@@ -1,0 +1,5 @@
+# Ignore the raw data file(s)
+
+*.xls
+*.xlsx
+*.csv
